@@ -157,19 +157,11 @@ Violations: 0 ✅
 | `bb_open_long_run.png` | 120-second sustained run |
 | `robustness_sweep.png` | 5 turbulence levels |
 
----
-
-## Why This Matters for Levitated Dipoles
-
-For levitated dipole reactors (e.g. OpenStar), magnetospheric-like turbulence is a source of confinement stability — not a threat. Standard controllers that suppress this signal fight the physics. The BB-Open observer works with it.
-
-This is why the constraint violation count matters: PID and LQR produce more peak power but only by exceeding physical limits — which in a real reactor means plasma-wall contact and disruption. BB-Open stays within limits.
-
----
 
 ## Contact
 
 Wang Pengyu  
+wpydesign@gmail.com
 Wellington, New Zealand  
 
 
