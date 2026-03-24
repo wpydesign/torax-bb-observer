@@ -171,8 +171,7 @@ This is why the constraint violation count matters: PID and LQR produce more pea
 
 Wang Pengyu  
 Wellington, New Zealand  
-021 090 8781  
-[your email]
+
 
 ---
 
